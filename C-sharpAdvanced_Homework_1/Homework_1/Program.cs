@@ -1,13 +1,4 @@
-﻿//Create a Dog class with :
-
-//● Name, Age, Color
-//● Let the user input these parameters from a console application
-//● Create a new Dog object from the inputs and write it as a json in
-//a new file on the file system
-//● Create a method that reads and prints in the console all the dogs
-//from the json file
-
-using Homework_1;
+﻿using Homework_1;
 using Homework_1.Entities;
 using Newtonsoft.Json;
 using Homework_1.FileSystemHelper;
@@ -18,22 +9,29 @@ string filePath = folderPath + @"\dogsJson.json";
 if (!Directory.Exists(folderPath))
 {
     Directory.CreateDirectory(folderPath);
-}   
+}
 
-Console.WriteLine("Enter dog name:");
-string name = Console.ReadLine();
-Console.WriteLine("Enter dog age:");
-int age = int.Parse(Console.ReadLine());
-Console.WriteLine("Enter dog color:");
-string color = Console.ReadLine();
+List<Dog> dogs = new List<Dog>();
 
+Console.WriteLine("Enter the number of dogs to add:");
+int numDogs = int.Parse(Console.ReadLine());
 
-Dog dog = new Dog(name, age, color);
+for (int i = 0; i < numDogs; i++)
+{
+    Console.WriteLine($"Enter dog {i + 1} name:");
+    string name = Console.ReadLine();
+    Console.WriteLine($"Enter dog {i + 1} age:");
+    int age = int.Parse(Console.ReadLine());
+    Console.WriteLine($"Enter dog {i + 1} color:");
+    string color = Console.ReadLine();
 
-string jsonDog = JsonConvert.SerializeObject(dog);
+    Dog dog = new Dog(name, age, color);
+    dogs.Add(dog);
+}
+
+string jsonDog = JsonConvert.SerializeObject(dogs);
 
 ReaderWriter.WriteFile(filePath, jsonDog);
-
 
 Dog.PrintAllDogs(filePath);
 

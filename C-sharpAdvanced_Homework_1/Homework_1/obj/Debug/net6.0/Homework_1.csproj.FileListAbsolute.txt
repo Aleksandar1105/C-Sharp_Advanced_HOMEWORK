@@ -15,3 +15,20 @@ D:\8.SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\De
 D:\8.SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\Debug\net6.0\Homework_1.pdb
 D:\8.SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\Debug\net6.0\Homework_1.genruntimeconfig.cache
 D:\8.SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\Debug\net6.0\ref\Homework_1.dll
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\bin\Debug\net6.0\Homework_1.exe
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\bin\Debug\net6.0\Homework_1.deps.json
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\bin\Debug\net6.0\Homework_1.runtimeconfig.json
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\bin\Debug\net6.0\Homework_1.dll
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\bin\Debug\net6.0\Homework_1.pdb
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\Debug\net6.0\Homework_1.csproj.AssemblyReference.cache
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\Debug\net6.0\Homework_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\Debug\net6.0\Homework_1.AssemblyInfoInputs.cache
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\Debug\net6.0\Homework_1.AssemblyInfo.cs
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\Debug\net6.0\Homework_1.csproj.CoreCompileInputs.cache
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\Debug\net6.0\Homework_1.csproj.CopyComplete
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\Debug\net6.0\Homework_1.dll
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\Debug\net6.0\refint\Homework_1.dll
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\Debug\net6.0\Homework_1.pdb
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\Debug\net6.0\Homework_1.genruntimeconfig.cache
+D:\8. SEDC\C-Sharp_Advanced_HOMEWORK\C-sharpAdvanced_Homework_1\Homework_1\obj\Debug\net6.0\ref\Homework_1.dll

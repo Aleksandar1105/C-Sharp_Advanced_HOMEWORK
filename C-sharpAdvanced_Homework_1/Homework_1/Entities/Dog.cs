@@ -21,11 +21,11 @@ namespace Homework_1.Entities
         public int Age { get; set; }
         public string Color { get; set; }
 
-        public static void PrintAllDogs(string jsonFile)
+        public static void PrintAllDogs(string filePath)
         {
-            if (File.Exists(jsonFile))
+            if (File.Exists(filePath))
             {
-                string jsonDogs = ReaderWriter.ReadFile(jsonFile);
+                string jsonDogs = ReaderWriter.ReadFile(filePath);
                 List<Dog> dogs = JsonConvert.DeserializeObject<List<Dog>>(jsonDogs);
                 foreach (Dog dog in dogs)
                 {
